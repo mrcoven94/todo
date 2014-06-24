@@ -1,0 +1,23 @@
+body {
+    background: url(images.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment:fixed;
+}
+
+h2 {
+    color: white;
+}
+
+ul {
+ list-style: none; 
+ color: white;
+}
+.done-true {
+   text-decoration:line-through;
+    color: grey;
+}
+.style_awesome {
+    margin: 20%;
+    margin-left: 40%;
+}
